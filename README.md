@@ -36,6 +36,5 @@ As I said in the part about my values, I try to stay as far as possible of the s
 
 So if you like my story and what I'm doing, and only if you really want and can help, you can make a donation there:
 - flattr: https://flattr.com/@monoko
-- Github sponsor
 
 Thank you very much!
